@@ -12,3 +12,9 @@
 
 ## **Password Generator**
 
+![Screenshot (15)](https://user-images.githubusercontent.com/80184962/116838900-28a4bf00-ab9e-11eb-8ede-9a25a8103767.png)
+
+
+## DEPLOYED URL
+
+[Password Generator](https://dillin92.github.io/password-generator/)
